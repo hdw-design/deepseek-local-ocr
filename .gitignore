@@ -1,0 +1,16 @@
+# 运行时文件（本地生成，勿提交）
+__pycache__/
+*.pyc
+*.log
+.hook-state.json
+.hook-debug.log
+hook_img.png
+grab_tmp.*
+.codex-hook-state.json
+codex-hook.log
+
+# 环境/系统
+.vscode/
+.idea/
+*.swp
+.DS_Store

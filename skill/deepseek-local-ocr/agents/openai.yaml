@@ -1,0 +1,4 @@
+interface:
+  display_name: "本地 OCR"
+  short_description: "本地 OCR 识别图片中的文字，纯本地处理不出本机，适合纯文本模型看图"
+  default_prompt: "Use $deepseek-local-ocr to OCR 这张图片并提取文字。"
